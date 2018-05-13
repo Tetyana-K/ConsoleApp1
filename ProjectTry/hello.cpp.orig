@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	// my commenst for branch
+	std::cout << "Hello Git \n";
+<<<<<<< HEAD
+	std::cout << "Hello first branch \n";
+	cout << "I try do conflict\n";
+
+	cout << "kuku from first\n";
+
+=======
+	//std::cout << "Hello first branch \n";
+	std::cout << "Hello second!!!! branch \n";
+
+		cout << "I try do conflict\n";
+>>>>>>> second_branch
+	return 0;
+}
