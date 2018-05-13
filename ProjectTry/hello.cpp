@@ -4,6 +4,6 @@ int main()
 {
 	// my commenst
 	std::cout << "Hello Git \n";
-	cout << "Hurray!\n";
+	cout << "I try do conflict\n";
 	return 0;
 }
