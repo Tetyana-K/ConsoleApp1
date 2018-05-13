@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
 	// my commenst
-	std::cout << "hello \n";
+	std::cout << "Hello Git \n";
+	cout << "Hurray!\n";
 	return 0;
 }
